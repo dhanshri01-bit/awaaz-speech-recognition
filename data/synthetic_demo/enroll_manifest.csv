@@ -1,0 +1,16 @@
+audio_path,reference_text
+data/synthetic_demo/enroll/clip_00.wav,open whatsapp
+data/synthetic_demo/enroll/clip_01.wav,call my sister
+data/synthetic_demo/enroll/clip_02.wav,what is the time
+data/synthetic_demo/enroll/clip_03.wav,i need water
+data/synthetic_demo/enroll/clip_04.wav,send money to mummy
+data/synthetic_demo/enroll/clip_05.wav,turn on the light
+data/synthetic_demo/enroll/clip_06.wav,play some music
+data/synthetic_demo/enroll/clip_07.wav,read my messages
+data/synthetic_demo/enroll/clip_08.wav,how is the weather today
+data/synthetic_demo/enroll/clip_09.wav,set an alarm for morning
+data/synthetic_demo/enroll/clip_10.wav,video call my brother
+data/synthetic_demo/enroll/clip_11.wav,book a taxi
+data/synthetic_demo/enroll/clip_12.wav,check my bank balance
+data/synthetic_demo/enroll/clip_13.wav,remind me to take medicine
+data/synthetic_demo/enroll/clip_14.wav,close the door please

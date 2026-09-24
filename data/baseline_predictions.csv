@@ -1,0 +1,6 @@
+audio_path,reference,hypothesis
+data/synthetic_demo/eval/clip_00.wav,increase the volume,increase the volume.
+data/synthetic_demo/eval/clip_01.wav,what is my schedule today,What is my schedule today?
+data/synthetic_demo/eval/clip_02.wav,send a message to doctor,Send a message to Doctor 2.
+data/synthetic_demo/eval/clip_03.wav,turn off the fan,turn off the fan
+data/synthetic_demo/eval/clip_04.wav,call for help,Call for help.

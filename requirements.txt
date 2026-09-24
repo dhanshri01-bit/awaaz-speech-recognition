@@ -1,0 +1,14 @@
+torch>=2.1
+torchaudio>=2.1
+transformers>=4.40
+peft>=0.11
+datasets>=2.19
+torchcodec  # required by newer `datasets` for audio decoding — found via testing
+accelerate>=0.30
+jiwer>=3.0
+soundfile
+librosa
+onnx
+onnxruntime
+optimum[exporters]
+streamlit
