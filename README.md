@@ -1,3 +1,15 @@
+# Awaaz: personalized speech recognition for atypical speech
+
+**Live demo:** https://awaaz-speech-recognition-mrjq3appuqf4wvwj4tmb9tg.streamlit.app/
+Awaaz trains a small personal LoRA adapter on top of OpenAI's Whisper, so it can learn one person's speech pattern instead of averaging across everyone. The demo transcribes the same clip twice, once with generic Whisper and once with the personalized adapter, so you can compare them side by side.
+
+**Note on data:** the demo uses synthetic speech (text-to-speech audio with a consistent distortion applied), because real dysarthric speech recordings weren't available during the hackathon. The pipeline itself is real: the model, the training, the adapter and the live inference all work. Validating on real speakers is the next step.
+
+Built for Global Innovation Hackathon 2026 (Bharat Academix), Accessibility & Inclusion track, by Dhanshri Wagh.
+
+---
+
+
 # Awaaz — build order
 
 Matches the hackathon timeline. Run these in sequence; each stage produces
