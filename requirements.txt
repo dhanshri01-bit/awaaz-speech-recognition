@@ -8,7 +8,4 @@ accelerate>=0.30
 jiwer>=3.0
 soundfile
 librosa
-onnx
-onnxruntime
-optimum[exporters]
 streamlit
